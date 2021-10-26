@@ -14,3 +14,11 @@
   duration: 2015 &mdash; Present
   url: "https://github.com/education/classroom"
   description: GitHub Classroom automates repository creation and access control, making it easy for teachers to distribute starter code and collect assignments on GitHub.
+  
+# Udemy course
+- project: Udemy Project
+  role: Contributor
+  duration: 2017 &mdash; Present
+  url: "https://www.udemy.com/es/"
+  description: Udemy course of 20hrs
+  
